@@ -1,0 +1,5 @@
+{
+  "name": "Personal Work Tracker",
+  "description": "A minimal, real-time synced personal work tracking app inspired by Slack Lists.",
+  "requestFramePermissions": []
+}
